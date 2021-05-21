@@ -29,5 +29,4 @@ var MiArray = [
 ]
 
 
-
 console.log(MiArray[8].MiAutoMovil[1].Color)
